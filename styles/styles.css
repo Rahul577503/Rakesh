@@ -477,6 +477,11 @@ button:is(:hover, :focus-visible) .action {
     font-size: 14px;
     padding: 0.3em 1em;
   }
+  .social-links {
+    padding: 5px;
+    text-align: center;
+  }
+  
   .footer {
     flex-direction: column-reverse;
     text-align: center;

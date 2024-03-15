@@ -477,8 +477,8 @@ button:is(:hover, :focus-visible) .action {
     font-size: 14px;
     padding: 0.3em 1em;
   }
-  .social-links {
-    padding: 5px;
+  .social-links a {
+    padding: 8px;
     text-align: center;
   }
   

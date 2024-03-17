@@ -345,7 +345,7 @@ button {
   font-family: "Geist Sans", sans-serif;
   font-weight: 80;
   background: linear-gradient(45deg, blue, #f36a9c);
-  color: hsl(0 0% 90%);
+  color: #fff;
   padding: 0.5em 0.5em 0.5em 1.5em;
   place-items: center;
   box-shadow: 0 1px inset hsl(0 0% 100% / 0.5),
@@ -361,7 +361,7 @@ button:focus-visible {
 }
 
 button a {
-  color: #333;
+  color: #ffff;
   font-weight: bold;
   font-size: 1rem;
 }
@@ -511,6 +511,11 @@ button:is(:hover, :focus-visible) .action {
   }
 
   .footer-right {
+    margin-bottom: 20px;
+  }
+
+  .footer-right {
     margin-top: 10px;
   }
+
 }

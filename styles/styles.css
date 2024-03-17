@@ -56,7 +56,6 @@ a {
 h1 {
   text-align: center;
 }
-
 .center {
   display: flex;
   justify-content: center;
@@ -90,6 +89,7 @@ h5 {
 }
 
 .hero-container{
+
   height: 100vh;
 
 }
